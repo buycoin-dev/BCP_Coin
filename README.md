@@ -15,7 +15,7 @@ Confirmations:10 Blocks
 
 PoS interest:20%
 
-Minimum age of coin: 6 hours
+Minimum age of coin: 12 hours
 
 RPC port: 9038
 
