@@ -167,7 +167,7 @@ background-color: rgb(106, 131, 154);</string>
          <item>
           <widget class="QPushButton" name="signMessageButton_SM">
            <property name="toolTip">
-            <string>Sign the message to prove you own this BuyCoin address</string>
+            <string>Sign the message to prove you own this BCPcoin address</string>
            </property>
            <property name="styleSheet">
             <string notr="true">background-color: rgb(106, 131, 154);
@@ -335,7 +335,7 @@ background-image: url(:/images/bgbfree);</string>
          <item>
           <widget class="QPushButton" name="verifyMessageButton_VM">
            <property name="toolTip">
-            <string>Verify the message to ensure it was signed with the specified BuyCoin address</string>
+            <string>Verify the message to ensure it was signed with the specified BCPcoin address</string>
            </property>
            <property name="styleSheet">
             <string notr="true">background-color: rgb(106, 131, 154);

@@ -203,10 +203,10 @@ Value getworkex(const Array& params, bool fHelp)
         );
 
     if (vNodes.empty())
-        throw JSONRPCError(-9, "BuyCoin is not connected!");
+        throw JSONRPCError(-9, "BCPcoin is not connected!");
 
     if (IsInitialBlockDownload())
-        throw JSONRPCError(-10, "BuyCoin is downloading blocks...");
+        throw JSONRPCError(-10, "BCPcoin is downloading blocks...");
 
     if (pindexBest->nHeight >= GetLastPowBlock())
         throw JSONRPCError(RPC_MISC_ERROR, "No more PoW blocks");
@@ -337,10 +337,10 @@ Value getwork(const Array& params, bool fHelp)
             "If [data] is specified, tries to solve the block and returns true if it was successful.");
 
     if (vNodes.empty())
-        throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "BuyCoin is not connected!");
+        throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "BCPcoin is not connected!");
 
     if (IsInitialBlockDownload())
-        throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "BuyCoin is downloading blocks...");
+        throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "BCPcoin is downloading blocks...");
 
     if (pindexBest->nHeight >= GetLastPowBlock())
         throw JSONRPCError(RPC_MISC_ERROR, "No more PoW blocks");
@@ -481,10 +481,10 @@ Value getblocktemplate(const Array& params, bool fHelp)
         throw JSONRPCError(RPC_INVALID_PARAMETER, "Invalid mode");
 
     if (vNodes.empty())
-        throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "BuyCoin is not connected!");
+        throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "BCPcoin is not connected!");
 
     if (IsInitialBlockDownload())
-        throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "BuyCoin is downloading blocks...");
+        throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "BCPcoin is downloading blocks...");
 
     if (pindexBest->nHeight >= GetLastPowBlock())
         throw JSONRPCError(RPC_MISC_ERROR, "No more PoW blocks");

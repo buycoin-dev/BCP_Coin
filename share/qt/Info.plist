@@ -7,23 +7,23 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
-	<string>BuyCoin-Qt</string>
+	<string>BCPcoin-Qt</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>BuyCoin-Qt</string>
+	<string>BCPcoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>co.BuyCoin.BuyCoin-Qt</string>
+	<string>co.BCPcoin.BCPcoin-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>co.BuyCoin.BuyCoinPayment</string>
+            <string>co.BCPcoin.BCPcoinPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>BuyCoin</string>
+              <string>BCPcoin</string>
             </array>
           </dict>
         </array>

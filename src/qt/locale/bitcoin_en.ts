@@ -5,13 +5,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BuyCoin</source>
-        <translation>About BuyCoin</translation>
+        <source>About BCPcoin</source>
+        <translation>About BCPcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BuyCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;BuyCoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;BCPcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;BCPcoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -19,7 +19,7 @@
 Copyright © 2011-2012 PPCoin Developers
 Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2014-2015 The BlackCoin developers
-Copyright © 2015 The BuyCoin developers</source>
+Copyright © 2015 The BCPcoin developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -62,8 +62,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your BuyCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your BuyCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your BCPcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your BCPcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -77,8 +77,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a BuyCoin address</source>
-        <translation>Sign a message to prove you own a BuyCoin address</translation>
+        <source>Sign a message to prove you own a BCPcoin address</source>
+        <translation>Sign a message to prove you own a BCPcoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -92,8 +92,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified BuyCoin address</source>
-        <translation>Verify a message to ensure it was signed with a specified BuyCoin address</translation>
+        <source>Verify a message to ensure it was signed with a specified BCPcoin address</source>
+        <translation>Verify a message to ensure it was signed with a specified BCPcoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -260,8 +260,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>BuyCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>BuyCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
+        <source>BCPcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>BCPcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -354,8 +354,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BuyCoin</source>
-        <translation>Show information about BuyCoin</translation>
+        <source>Show information about BCPcoin</source>
+        <translation>Show information about BCPcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -394,13 +394,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a BuyCoin address</source>
-        <translation>Send coins to a BuyCoin address</translation>
+        <source>Send coins to a BCPcoin address</source>
+        <translation>Send coins to a BCPcoin address</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for BuyCoin</source>
-        <translation>Modify configuration options for BuyCoin</translation>
+        <source>Modify configuration options for BCPcoin</source>
+        <translation>Modify configuration options for BCPcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -440,8 +440,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>BuyCoin</source>
-        <translation>BuyCoin</translation>
+        <source>BCPcoin</source>
+        <translation>BCPcoin</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -450,8 +450,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About BuyCoin</source>
-        <translation>&amp;About BuyCoin</translation>
+        <source>&amp;About BCPcoin</source>
+        <translation>&amp;About BCPcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -502,15 +502,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>BuyCoin client</source>
-        <translation>BuyCoin client</translation>
+        <source>BCPcoin client</source>
+        <translation>BCPcoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to BuyCoin network</source>
+        <source>%n active connection(s) to BCPcoin network</source>
         <translation>
-            <numerusform>%n active connection to BuyCoin network</numerusform>
-            <numerusform>%n active connections to BuyCoin network</numerusform>
+            <numerusform>%n active connection to BCPcoin network</numerusform>
+            <numerusform>%n active connections to BCPcoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -605,8 +605,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BuyCoin address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid BuyCoin address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid BCPcoin address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid BCPcoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -746,8 +746,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. BuyCoin can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. BuyCoin can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. BCPcoin can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. BCPcoin can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -1066,8 +1066,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BuyCoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid BuyCoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid BCPcoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid BCPcoin address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1085,8 +1085,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>BuyCoin-Qt</source>
-        <translation>BuyCoin-Qt</translation>
+        <source>BCPcoin-Qt</source>
+        <translation>BCPcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1158,13 +1158,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BuyCoin after logging in to the system.</source>
-        <translation>Automatically start BuyCoin after logging in to the system.</translation>
+        <source>Automatically start BCPcoin after logging in to the system.</source>
+        <translation>Automatically start BCPcoin after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BuyCoin on system login</source>
-        <translation>&amp;Start BuyCoin on system login</translation>
+        <source>&amp;Start BCPcoin on system login</source>
+        <translation>&amp;Start BCPcoin on system login</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1173,8 +1173,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BuyCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the BuyCoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the BCPcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the BCPcoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1183,8 +1183,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BuyCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the BuyCoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the BCPcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the BCPcoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1258,8 +1258,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BuyCoin.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting BuyCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BCPcoin.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting BCPcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1325,8 +1325,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BuyCoin.</source>
-        <translation>This setting will take effect after restarting BuyCoin.</translation>
+        <source>This setting will take effect after restarting BCPcoin.</source>
+        <translation>This setting will take effect after restarting BCPcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1344,8 +1344,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BuyCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the BuyCoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BCPcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the BCPcoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1418,7 +1418,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start BuyCoin: click-to-pay handler</source>
+        <source>Cannot start BCPcoin: click-to-pay handler</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1586,8 +1586,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BuyCoin-Qt help message to get a list with possible BuyCoin command-line options.</source>
-        <translation>Show the BuyCoin-Qt help message to get a list with possible BuyCoin command-line options.</translation>
+        <source>Show the BCPcoin-Qt help message to get a list with possible BCPcoin command-line options.</source>
+        <translation>Show the BCPcoin-Qt help message to get a list with possible BCPcoin command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1606,13 +1606,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>BuyCoin - Debug window</source>
-        <translation>BuyCoin - Debug window</translation>
+        <source>BCPcoin - Debug window</source>
+        <translation>BCPcoin - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BuyCoin Core</source>
-        <translation>BuyCoin Core</translation>
+        <source>BCPcoin Core</source>
+        <translation>BCPcoin Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1621,8 +1621,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BuyCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the BuyCoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the BCPcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the BCPcoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1631,8 +1631,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the BuyCoin RPC console.</source>
-        <translation>Welcome to the BuyCoin RPC console.</translation>
+        <source>Welcome to the BCPcoin RPC console.</source>
+        <translation>Welcome to the BCPcoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1825,8 +1825,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a BuyCoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Enter a BuyCoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a BCPcoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
+        <translation>Enter a BCPcoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1925,7 +1925,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid BuyCoin address</source>
+        <source>WARNING: Invalid BCPcoin address</source>
         <translation></translation>
     </message>
     <message>
@@ -1999,8 +1999,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BuyCoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Enter a BuyCoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a BCPcoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
+        <translation>Enter a BCPcoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
     </message>
 </context>
 <context>
@@ -2060,8 +2060,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BuyCoin address</source>
-        <translation>Sign the message to prove you own this BuyCoin address</translation>
+        <source>Sign the message to prove you own this BCPcoin address</source>
+        <translation>Sign the message to prove you own this BCPcoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2092,8 +2092,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BuyCoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified BuyCoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified BCPcoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified BCPcoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2103,8 +2103,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BuyCoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Enter a BuyCoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a BCPcoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
+        <translation>Enter a BCPcoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2113,8 +2113,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BuyCoin signature</source>
-        <translation>Enter BuyCoin signature</translation>
+        <source>Enter BCPcoin signature</source>
+        <translation>Enter BCPcoin signature</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2704,8 +2704,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+172"/>
-        <source>BuyCoin version</source>
-        <translation>BuyCoin version</translation>
+        <source>BCPcoin version</source>
+        <translation>BCPcoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2714,8 +2714,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or BuyCoind</source>
-        <translation>Send command to -server or BuyCoind</translation>
+        <source>Send command to -server or BCPcoind</source>
+        <translation>Send command to -server or BCPcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2734,13 +2734,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: BuyCoin.conf)</source>
-        <translation>Specify configuration file (default: BuyCoin.conf)</translation>
+        <source>Specify configuration file (default: BCPcoin.conf)</source>
+        <translation>Specify configuration file (default: BCPcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: BuyCoind.pid)</source>
-        <translation>Specify pid file (default: BuyCoind.pid)</translation>
+        <source>Specify pid file (default: BCPcoind.pid)</source>
+        <translation>Specify pid file (default: BCPcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2757,13 +2757,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=BuyCoinrpc
+rpcuser=BCPcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;BCPcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -2869,8 +2869,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-102"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BuyCoin will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BuyCoin will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BCPcoin will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BCPcoin will not work properly.</translation>
     </message>
     <message>
         <location line="+131"/>
@@ -3170,7 +3170,7 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. BuyCoin is shutting down.</source>
+        <source>Initialization sanity check failed. BCPcoin is shutting down.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3235,13 +3235,13 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BuyCoin</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of BuyCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BCPcoin</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of BCPcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BuyCoin to complete</source>
-        <translation>Wallet needed to be rewritten: restart BuyCoin to complete</translation>
+        <source>Wallet needed to be rewritten: restart BCPcoin to complete</source>
+        <translation>Wallet needed to be rewritten: restart BCPcoin to complete</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3305,8 +3305,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. BuyCoin is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. BuyCoin is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. BCPcoin is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. BCPcoin is probably already running.</translation>
     </message>
     <message>
         <location line="-100"/>
@@ -3345,7 +3345,7 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. BuyCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. BCPcoin is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

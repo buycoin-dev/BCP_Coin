@@ -526,7 +526,7 @@ void ThreadStakeMiner(CWallet *pwallet)
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
 
     // Make this thread recognisable as the mining thread
-    RenameThread("BuyCoin-miner");
+    RenameThread("BCPcoin-miner");
 
     CReserveKey reservekey(pwallet);
 

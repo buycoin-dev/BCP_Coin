@@ -3,13 +3,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BuyCoin</source>
-        <translation>Despre BuyCoin</translation>
+        <source>About BCPcoin</source>
+        <translation>Despre BCPcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BuyCoin&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;BuyCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;BCPcoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;BCPcoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your BuyCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele BuyCoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your BCPcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele BCPcoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a BuyCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă BuyCoin</translation>
+        <source>Sign a message to prove you own a BCPcoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă BCPcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified BuyCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă BuyCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified BCPcoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă BCPcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>BuyCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>BuyCoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>BCPcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>BCPcoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BuyCoin</source>
-        <translation>Arată informații despre BuyCoin</translation>
+        <source>Show information about BCPcoin</source>
+        <translation>Arată informații despre BCPcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a BuyCoin address</source>
-        <translation>Trimite monede către o adresă BuyCoin</translation>
+        <source>Send coins to a BCPcoin address</source>
+        <translation>Trimite monede către o adresă BCPcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for BuyCoin</source>
-        <translation>Modifică opțiuni de configurare pentru BuyCoin</translation>
+        <source>Modify configuration options for BCPcoin</source>
+        <translation>Modifică opțiuni de configurare pentru BCPcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>BuyCoin</source>
-        <translation>BuyCoin</translation>
+        <source>BCPcoin</source>
+        <translation>BCPcoin</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About BuyCoin</source>
-        <translation>Despre BuyCoin</translation>
+        <source>&amp;About BCPcoin</source>
+        <translation>Despre BCPcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>BuyCoin client</source>
-        <translation>Clientul BuyCoin</translation>
+        <source>BCPcoin client</source>
+        <translation>Clientul BCPcoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to BuyCoin network</source>
-        <translation><numerusform>%n conexiune activă la reteaua BuyCoin</numerusform><numerusform>%n conexiuni active la reteaua BuyCoin</numerusform><numerusform>%n conexiuni active la reteaua BuyCoin</numerusform></translation>
+        <source>%n active connection(s) to BCPcoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua BCPcoin</numerusform><numerusform>%n conexiuni active la reteaua BCPcoin</numerusform><numerusform>%n conexiuni active la reteaua BCPcoin</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BuyCoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa BuyCoin invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid BCPcoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa BCPcoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. BuyCoin can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. BuyCoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. BCPcoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. BCPcoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BuyCoin address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă BuyCoin validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid BCPcoin address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă BCPcoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>BuyCoin-Qt</source>
-        <translation>BuyCoin-Qt</translation>
+        <source>BCPcoin-Qt</source>
+        <translation>BCPcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BuyCoin after logging in to the system.</source>
-        <translation>Pornește BuyCoin imdiat după logarea în sistem</translation>
+        <source>Automatically start BCPcoin after logging in to the system.</source>
+        <translation>Pornește BCPcoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BuyCoin on system login</source>
-        <translation>$Pornește BuyCoin la logarea în sistem</translation>
+        <source>&amp;Start BCPcoin on system login</source>
+        <translation>$Pornește BCPcoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BuyCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul BuyCoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the BCPcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul BCPcoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1174,8 +1174,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BuyCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua BuyCoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the BCPcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua BCPcoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1249,8 +1249,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BuyCoin.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea BuyCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BCPcoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea BCPcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1316,8 +1316,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BuyCoin.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea BuyCoin.</translation>
+        <source>This setting will take effect after restarting BCPcoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea BCPcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BuyCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua BuyCoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BCPcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua BCPcoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1409,7 +1409,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start BuyCoin: click-to-pay handler</source>
+        <source>Cannot start BCPcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1577,8 +1577,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BuyCoin-Qt help message to get a list with possible BuyCoin command-line options.</source>
-        <translation>Afișa mesajul de ajutor BuyCoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă BuyCoin.</translation>
+        <source>Show the BCPcoin-Qt help message to get a list with possible BCPcoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor BCPcoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă BCPcoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1597,13 +1597,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>BuyCoin - Debug window</source>
-        <translation>BuyCoin - fereastră depanare</translation>
+        <source>BCPcoin - Debug window</source>
+        <translation>BCPcoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BuyCoin Core</source>
-        <translation>BuyCoin Core</translation>
+        <source>BCPcoin Core</source>
+        <translation>BCPcoin Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1612,8 +1612,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BuyCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare BuyCoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the BCPcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare BCPcoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1622,8 +1622,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the BuyCoin RPC console.</source>
-        <translation>Bine ati venit la consola BuyCoin RPC.</translation>
+        <source>Welcome to the BCPcoin RPC console.</source>
+        <translation>Bine ati venit la consola BCPcoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1816,8 +1816,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BuyCoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Introduceți o adresă BuyCoin(ex:JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a BCPcoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
+        <translation>Introduceți o adresă BCPcoin(ex:JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1916,8 +1916,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid BuyCoin address</source>
-        <translation>Atenție: Adresă BuyCoin invalidă</translation>
+        <source>WARNING: Invalid BCPcoin address</source>
+        <translation>Atenție: Adresă BCPcoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1990,8 +1990,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BuyCoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Introduceți o adresă BuyCoin(ex:JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a BCPcoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
+        <translation>Introduceți o adresă BCPcoin(ex:JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
     </message>
 </context>
 <context>
@@ -2051,8 +2051,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BuyCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă BuyCoin</translation>
+        <source>Sign the message to prove you own this BCPcoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă BCPcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2083,8 +2083,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BuyCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă BuyCoin</translation>
+        <source>Verify the message to ensure it was signed with the specified BCPcoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă BCPcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2094,8 +2094,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BuyCoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Introduceți o adresă BuyCoin(ex:JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a BCPcoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
+        <translation>Introduceți o adresă BCPcoin(ex:JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2104,8 +2104,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BuyCoin signature</source>
-        <translation>Introduceti semnatura BuyCoin</translation>
+        <source>Enter BCPcoin signature</source>
+        <translation>Introduceti semnatura BCPcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2683,8 +2683,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>BuyCoin version</source>
-        <translation>Versiune BuyCoin</translation>
+        <source>BCPcoin version</source>
+        <translation>Versiune BCPcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2693,8 +2693,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or BuyCoind</source>
-        <translation>Trimite comanda catre server sau BuyCoind</translation>
+        <source>Send command to -server or BCPcoind</source>
+        <translation>Trimite comanda catre server sau BCPcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2713,13 +2713,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: BuyCoin.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: BuyCoin.conf)</translation>
+        <source>Specify configuration file (default: BCPcoin.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: BCPcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: BuyCoind.pid)</source>
-        <translation>Speficica fisier pid(implicit: BuyCoin.pid)</translation>
+        <source>Specify pid file (default: BCPcoind.pid)</source>
+        <translation>Speficica fisier pid(implicit: BCPcoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2736,13 +2736,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=BuyCoinrpc
+rpcuser=BCPcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;BCPcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2848,8 +2848,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BuyCoin will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit BuyCoin nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BCPcoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit BCPcoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3155,7 +3155,7 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. BuyCoin is shutting down.</source>
+        <source>Initialization sanity check failed. BCPcoin is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3220,13 +3220,13 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BuyCoin</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de BuyCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BCPcoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de BCPcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BuyCoin to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați BuyCoin pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart BCPcoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați BCPcoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3290,8 +3290,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. BuyCoin is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil BuyCoin ruleaza</translation>
+        <source>Unable to bind to %s on this computer. BCPcoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil BCPcoin ruleaza</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3330,7 +3330,7 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. BuyCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. BCPcoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

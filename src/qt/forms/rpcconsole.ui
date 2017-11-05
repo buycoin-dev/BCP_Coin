@@ -17,7 +17,7 @@
    </font>
   </property>
   <property name="windowTitle">
-   <string>BuyCoin - Debug window</string>
+   <string>BCPcoin - Debug window</string>
   </property>
   <property name="styleSheet">
    <string notr="true">background-image: url(:/images/bkg);</string>
@@ -54,7 +54,7 @@
           <string notr="true">background-image: url(:/images/bgbfree);</string>
          </property>
          <property name="text">
-          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;BuyCoin Core&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;BCPcoin Core&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
          </property>
         </widget>
        </item>
@@ -380,7 +380,7 @@
        <item row="14" column="0">
         <widget class="QPushButton" name="openDebugLogfileButton">
          <property name="toolTip">
-          <string>Open the BuyCoin debug log file from the current data directory. This can take a few seconds for large log files.</string>
+          <string>Open the BCPcoin debug log file from the current data directory. This can take a few seconds for large log files.</string>
          </property>
          <property name="styleSheet">
           <string notr="true">background-color: rgb(106, 131, 154);</string>
@@ -412,7 +412,7 @@
        <item row="16" column="0">
         <widget class="QPushButton" name="showCLOptionsButton">
          <property name="toolTip">
-          <string>Show the BuyCoin-Qt help message to get a list with possible BuyCoin command-line options.</string>
+          <string>Show the BCPcoin-Qt help message to get a list with possible BCPcoin command-line options.</string>
          </property>
          <property name="styleSheet">
           <string notr="true">background-color: rgb(106, 131, 154);</string>

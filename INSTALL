@@ -1,9 +1,9 @@
-Building BuyCoin
+Building BCPcoin
 
-See doc/readme-qt.rst for instructions on building BuyCoin QT,
+See doc/readme-qt.rst for instructions on building BCPcoin QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of BuyCoin.
+implementation of BCPcoin.
 
-See doc/build-*.txt for instructions on building BuyCoind,
+See doc/build-*.txt for instructions on building BCPcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of BuyCoin.
+implementation of BCPcoin.

@@ -3,13 +3,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BuyCoin</source>
-        <translation>Acerca de BuyCoin</translation>
+        <source>About BCPcoin</source>
+        <translation>Acerca de BCPcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BuyCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;BuyCoin&lt;/b&gt; versión</translation>
+        <source>&lt;b&gt;BCPcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;BCPcoin&lt;/b&gt; versión</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your BuyCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son las direcciones de BuyCoin para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
+        <source>These are your BCPcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son las direcciones de BCPcoin para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a BuyCoin address</source>
-        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de BuyCoin</translation>
+        <source>Sign a message to prove you own a BCPcoin address</source>
+        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de BCPcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified BuyCoin address</source>
-        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de BuyCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified BCPcoin address</source>
+        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de BCPcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>BuyCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>BuyCoin cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
+        <source>BCPcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>BCPcoin cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BuyCoin</source>
-        <translation>Mostrar información sobre BuyCoin</translation>
+        <source>Show information about BCPcoin</source>
+        <translation>Mostrar información sobre BCPcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a BuyCoin address</source>
-        <translation>Enviar monedas a una dirección de BuyCoin</translation>
+        <source>Send coins to a BCPcoin address</source>
+        <translation>Enviar monedas a una dirección de BCPcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for BuyCoin</source>
-        <translation>Modificar las opciones de configuración para BuyCoin</translation>
+        <source>Modify configuration options for BCPcoin</source>
+        <translation>Modificar las opciones de configuración para BCPcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>BuyCoin</source>
-        <translation>BuyCoin</translation>
+        <source>BCPcoin</source>
+        <translation>BCPcoin</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About BuyCoin</source>
-        <translation>Acerca de BuyCoin</translation>
+        <source>&amp;About BCPcoin</source>
+        <translation>Acerca de BCPcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>BuyCoin client</source>
-        <translation>Cliente BuyCoin</translation>
+        <source>BCPcoin client</source>
+        <translation>Cliente BCPcoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to BuyCoin network</source>
-        <translation><numerusform>%n conexión activa a la red BuyCoin</numerusform><numerusform>%n conexiones activas a la red BuyCoin</numerusform></translation>
+        <source>%n active connection(s) to BCPcoin network</source>
+        <translation><numerusform>%n conexión activa a la red BCPcoin</numerusform><numerusform>%n conexiones activas a la red BCPcoin</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Dirección: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BuyCoin address or malformed URI parameters.</source>
-        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de BuyCoin no válida o parámetros de URI malformados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid BCPcoin address or malformed URI parameters.</source>
+        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de BCPcoin no válida o parámetros de URI malformados.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. BuyCoin can no longer continue safely and will quit.</source>
-        <translation>Se ha producido un error fatal. BuyCoin ya no puede continuar de forma segura y cerrará.</translation>
+        <source>A fatal error occurred. BCPcoin can no longer continue safely and will quit.</source>
+        <translation>Se ha producido un error fatal. BCPcoin ya no puede continuar de forma segura y cerrará.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BuyCoin address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de BuyCoin.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid BCPcoin address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de BCPcoin.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>BuyCoin-Qt</source>
-        <translation>BuyCoin-Qt</translation>
+        <source>BCPcoin-Qt</source>
+        <translation>BCPcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BuyCoin after logging in to the system.</source>
-        <translation>Iniciar BuyCoin automáticamente después de entrar en el sistema.</translation>
+        <source>Automatically start BCPcoin after logging in to the system.</source>
+        <translation>Iniciar BCPcoin automáticamente después de entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BuyCoin on system login</source>
-        <translation>&amp;Iniciar BuyCoin al inicio del sistema</translation>
+        <source>&amp;Start BCPcoin on system login</source>
+        <translation>&amp;Iniciar BCPcoin al inicio del sistema</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BuyCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto de cliente BuyCoin en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the BCPcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto de cliente BCPcoin en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1174,8 +1174,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BuyCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conéctese a la red de BuyCoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
+        <source>Connect to the BCPcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conéctese a la red de BCPcoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1249,8 +1249,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BuyCoin.</source>
-        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar BuyCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BCPcoin.</source>
+        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar BCPcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1316,8 +1316,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BuyCoin.</source>
-        <translation>Esta configuración se aplicará después de reiniciar BuyCoin.</translation>
+        <source>This setting will take effect after restarting BCPcoin.</source>
+        <translation>Esta configuración se aplicará después de reiniciar BCPcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BuyCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red BuyCoin después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BCPcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red BCPcoin después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1409,7 +1409,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start BuyCoin: click-to-pay handler</source>
+        <source>Cannot start BCPcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1577,8 +1577,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BuyCoin-Qt help message to get a list with possible BuyCoin command-line options.</source>
-        <translation>Mostrar el mensaje de ayuda de BuyCoin-Qt para obtener una lista con las posibles opciones de línea de comandos para BuyCoin.</translation>
+        <source>Show the BCPcoin-Qt help message to get a list with possible BCPcoin command-line options.</source>
+        <translation>Mostrar el mensaje de ayuda de BCPcoin-Qt para obtener una lista con las posibles opciones de línea de comandos para BCPcoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1597,13 +1597,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>BuyCoin - Debug window</source>
-        <translation>BuyCoin - Ventana de depuración</translation>
+        <source>BCPcoin - Debug window</source>
+        <translation>BCPcoin - Ventana de depuración</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BuyCoin Core</source>
-        <translation>Núcleo BuyCoin</translation>
+        <source>BCPcoin Core</source>
+        <translation>Núcleo BCPcoin</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1612,8 +1612,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BuyCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abre el archivo de registro de BuyCoin del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
+        <source>Open the BCPcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abre el archivo de registro de BCPcoin del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1622,8 +1622,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the BuyCoin RPC console.</source>
-        <translation>Bienvenido a la consola RPC de BuyCoin</translation>
+        <source>Welcome to the BCPcoin RPC console.</source>
+        <translation>Bienvenido a la consola RPC de BCPcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1816,8 +1816,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BuyCoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Introduce una dirección BuyCoin (p.ej. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a BCPcoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
+        <translation>Introduce una dirección BCPcoin (p.ej. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1916,8 +1916,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid BuyCoin address</source>
-        <translation>ADVERTENCIA: Dirección BuyCoin inválida</translation>
+        <source>WARNING: Invalid BCPcoin address</source>
+        <translation>ADVERTENCIA: Dirección BCPcoin inválida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1990,8 +1990,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BuyCoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Introduce una dirección BuyCoin (p.ej. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a BCPcoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
+        <translation>Introduce una dirección BCPcoin (p.ej. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
     </message>
 </context>
 <context>
@@ -2051,8 +2051,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BuyCoin address</source>
-        <translation>Firma el mensaje para demostrar que posees esta dirección BuyCoin.</translation>
+        <source>Sign the message to prove you own this BCPcoin address</source>
+        <translation>Firma el mensaje para demostrar que posees esta dirección BCPcoin.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2083,8 +2083,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BuyCoin address</source>
-        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección BuyCoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified BCPcoin address</source>
+        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección BCPcoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2094,8 +2094,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BuyCoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Introduce una dirección BuyCoin (p.ej JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a BCPcoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
+        <translation>Introduce una dirección BCPcoin (p.ej JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2104,8 +2104,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BuyCoin signature</source>
-        <translation>Introduce la firma BuyCoin</translation>
+        <source>Enter BCPcoin signature</source>
+        <translation>Introduce la firma BCPcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2683,8 +2683,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>BuyCoin version</source>
-        <translation>versión BuyCoin</translation>
+        <source>BCPcoin version</source>
+        <translation>versión BCPcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2693,8 +2693,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or BuyCoind</source>
-        <translation>Envía un comando a -server o BuyCoind</translation>
+        <source>Send command to -server or BCPcoind</source>
+        <translation>Envía un comando a -server o BCPcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2716,13 +2716,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: BuyCoin.conf)</source>
-        <translation>Especifica un archivo de configuración (por defecto: BuyCoin.conf)</translation>
+        <source>Specify configuration file (default: BCPcoin.conf)</source>
+        <translation>Especifica un archivo de configuración (por defecto: BCPcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: BuyCoind.pid)</source>
-        <translation>Especifica un archivo pid (por defecto: BuyCoind.pid)</translation>
+        <source>Specify pid file (default: BCPcoind.pid)</source>
+        <translation>Especifica un archivo pid (por defecto: BCPcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2739,13 +2739,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=BuyCoinrpc
+rpcuser=BCPcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;BCPcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2854,8 +2854,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BuyCoin will not work properly.</source>
-        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo BuyCoin no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BCPcoin will not work properly.</source>
+        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo BCPcoin no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3168,7 +3168,7 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. BuyCoin is shutting down.</source>
+        <source>Initialization sanity check failed. BCPcoin is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3234,13 +3234,13 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BuyCoin</source>
-        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de BuyCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BCPcoin</source>
+        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de BCPcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BuyCoin to complete</source>
-        <translation>El monedero necesita ser reescrito: reinicie BuyCoin para completar</translation>
+        <source>Wallet needed to be rewritten: restart BCPcoin to complete</source>
+        <translation>El monedero necesita ser reescrito: reinicie BCPcoin para completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3304,8 +3304,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. BuyCoin is probably already running.</source>
-        <translation>No se puede enlazar a %s en este equipo. BuyCoin probablemente ya esté en funcionamiento.</translation>
+        <source>Unable to bind to %s on this computer. BCPcoin is probably already running.</source>
+        <translation>No se puede enlazar a %s en este equipo. BCPcoin probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3344,7 +3344,7 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. BuyCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. BCPcoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

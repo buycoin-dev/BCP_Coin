@@ -73,7 +73,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "BuyCoin Signed Message:\n";
+const string strMessageMagic = "BCPcoin Signed Message:\n";
 
 extern enum Checkpoints::CPMode CheckpointsMode;
 
@@ -2638,7 +2638,7 @@ struct CImportingNow
 
 void ThreadImport(std::vector<boost::filesystem::path> vImportFiles)
 {
-    RenameThread("BuyCoin-loadblk");
+    RenameThread("BCPcoin-loadblk");
 
     CImportingNow imp;
 

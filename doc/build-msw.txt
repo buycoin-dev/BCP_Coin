@@ -7,7 +7,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP
 software written by Thomas Bernard.
 
 
-See readme-qt.rst for instructions on building BuyCoin QT, the
+See readme-qt.rst for instructions on building BCPcoin QT, the
 graphical user interface.
 
 WINDOWS BUILD NOTES
@@ -76,9 +76,9 @@ make -f Makefile.mingw
 mkdir miniupnpc
 cp *.h miniupnpc/
 
-BuyCoin
+BCPcoin
 -------
 DOS prompt:
-cd \BuyCoin\src
+cd \BCPcoin\src
 mingw32-make -f makefile.mingw
-strip BuyCoind.exe
+strip BCPcoind.exe

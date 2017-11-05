@@ -3,13 +3,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BuyCoin</source>
-        <translation>Om BuyCoin</translation>
+        <source>About BCPcoin</source>
+        <translation>Om BCPcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BuyCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;BuyCoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;BCPcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;BCPcoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your BuyCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine BuyCoin adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
+        <source>These are your BCPcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine BCPcoin adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a BuyCoin address</source>
-        <translation>Signerer en meddelelse for at bevise du ejer en BuyCoin adresse</translation>
+        <source>Sign a message to prove you own a BCPcoin address</source>
+        <translation>Signerer en meddelelse for at bevise du ejer en BCPcoin adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified BuyCoin address</source>
-        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret BuyCoin adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified BCPcoin address</source>
+        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret BCPcoin adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>BuyCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>BuyCoin lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
+        <source>BCPcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>BCPcoin lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BuyCoin</source>
-        <translation>Vis oplysninger om BuyCoin</translation>
+        <source>Show information about BCPcoin</source>
+        <translation>Vis oplysninger om BCPcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a BuyCoin address</source>
-        <translation>Send mønter til en BuyCoin adresse</translation>
+        <source>Send coins to a BCPcoin address</source>
+        <translation>Send mønter til en BCPcoin adresse</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for BuyCoin</source>
-        <translation>Ændre indstillingsmuligheder for BuyCoin</translation>
+        <source>Modify configuration options for BCPcoin</source>
+        <translation>Ændre indstillingsmuligheder for BCPcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>BuyCoin</source>
-        <translation>BuyCoin</translation>
+        <source>BCPcoin</source>
+        <translation>BCPcoin</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About BuyCoin</source>
-        <translation>&amp;Om BuyCoin</translation>
+        <source>&amp;About BCPcoin</source>
+        <translation>&amp;Om BCPcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>BuyCoin client</source>
-        <translation>BuyCoin klient</translation>
+        <source>BCPcoin client</source>
+        <translation>BCPcoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to BuyCoin network</source>
-        <translation><numerusform>%n aktiv forbindelse til BuyCoin netværk</numerusform><numerusform>%n aktive forbindelser til BuyCoin netværk</numerusform></translation>
+        <source>%n active connection(s) to BCPcoin network</source>
+        <translation><numerusform>%n aktiv forbindelse til BCPcoin netværk</numerusform><numerusform>%n aktive forbindelser til BCPcoin netværk</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BuyCoin address or malformed URI parameters.</source>
-        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig BuyCoin adresse eller misdannede URI parametre.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid BCPcoin address or malformed URI parameters.</source>
+        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig BCPcoin adresse eller misdannede URI parametre.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,7 +723,7 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. BuyCoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. BCPcoin can no longer continue safely and will quit.</source>
         <translation>Der opstod en fejl under forsøg på at gemme dataene i tegnebogen til den nye placering.</translation>
     </message>
 </context>
@@ -1057,8 +1057,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BuyCoin address.</source>
-        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig BuyCoin adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid BCPcoin address.</source>
+        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig BCPcoin adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>BuyCoin-Qt</source>
-        <translation>BuyCoin-Qt</translation>
+        <source>BCPcoin-Qt</source>
+        <translation>BCPcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BuyCoin after logging in to the system.</source>
-        <translation>Automatisk start BuyCoin efter at have logget ind på systemet.</translation>
+        <source>Automatically start BCPcoin after logging in to the system.</source>
+        <translation>Automatisk start BCPcoin efter at have logget ind på systemet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BuyCoin on system login</source>
-        <translation>&amp;Start BuyCoin ved systems login</translation>
+        <source>&amp;Start BCPcoin on system login</source>
+        <translation>&amp;Start BCPcoin ved systems login</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BuyCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisk åbne BuyCoin klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
+        <source>Automatically open the BCPcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisk åbne BCPcoin klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1174,8 +1174,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BuyCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Opret forbindelse til BuyCoin netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
+        <source>Connect to the BCPcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Opret forbindelse til BCPcoin netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1249,8 +1249,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BuyCoin.</source>
-        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af BuyCoin tegnebog.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BCPcoin.</source>
+        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af BCPcoin tegnebog.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1316,8 +1316,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BuyCoin.</source>
-        <translation>Denne indstilling vil træde i kraft efter genstart af BuyCoin.</translation>
+        <source>This setting will take effect after restarting BCPcoin.</source>
+        <translation>Denne indstilling vil træde i kraft efter genstart af BCPcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BuyCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med BuyCoin netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BCPcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med BCPcoin netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1409,7 +1409,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start BuyCoin: click-to-pay handler</source>
+        <source>Cannot start BCPcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1577,8 +1577,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BuyCoin-Qt help message to get a list with possible BuyCoin command-line options.</source>
-        <translation>Vis BuyCoin-Qt hjælpe besked for at få en liste med mulige BuyCoin kommandolinjeparametre.</translation>
+        <source>Show the BCPcoin-Qt help message to get a list with possible BCPcoin command-line options.</source>
+        <translation>Vis BCPcoin-Qt hjælpe besked for at få en liste med mulige BCPcoin kommandolinjeparametre.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1597,13 +1597,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>BuyCoin - Debug window</source>
-        <translation>BuyCoin - Debug vindue</translation>
+        <source>BCPcoin - Debug window</source>
+        <translation>BCPcoin - Debug vindue</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BuyCoin Core</source>
-        <translation>BuyCoin Kerne</translation>
+        <source>BCPcoin Core</source>
+        <translation>BCPcoin Kerne</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1612,8 +1612,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BuyCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn BuyCoin debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
+        <source>Open the BCPcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn BCPcoin debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1622,8 +1622,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the BuyCoin RPC console.</source>
-        <translation>Velkommen til BuyCoin RPC-konsol.</translation>
+        <source>Welcome to the BCPcoin RPC console.</source>
+        <translation>Velkommen til BCPcoin RPC-konsol.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1816,8 +1816,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BuyCoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Indtast en BuyCoin-adresse (f.eks JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a BCPcoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
+        <translation>Indtast en BCPcoin-adresse (f.eks JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1916,8 +1916,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid BuyCoin address</source>
-        <translation>ADVARSEL: Ugyldig BuyCoin adresse</translation>
+        <source>WARNING: Invalid BCPcoin address</source>
+        <translation>ADVARSEL: Ugyldig BCPcoin adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1990,8 +1990,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BuyCoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Indtast en BuyCoin-adresse (f.eks JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a BCPcoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
+        <translation>Indtast en BCPcoin-adresse (f.eks JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
     </message>
 </context>
 <context>
@@ -2051,8 +2051,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BuyCoin address</source>
-        <translation>Underskriv brevet for at bevise du ejer denne BuyCoin adresse</translation>
+        <source>Sign the message to prove you own this BCPcoin address</source>
+        <translation>Underskriv brevet for at bevise du ejer denne BCPcoin adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2083,8 +2083,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BuyCoin address</source>
-        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne BuyCoin adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified BCPcoin address</source>
+        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne BCPcoin adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2094,8 +2094,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BuyCoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Indtast en BuyCoin-adresse (f.eks JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a BCPcoin address (e.g. JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
+        <translation>Indtast en BCPcoin-adresse (f.eks JgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2104,8 +2104,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BuyCoin signature</source>
-        <translation>Indtast BuyCoin underskrift</translation>
+        <source>Enter BCPcoin signature</source>
+        <translation>Indtast BCPcoin underskrift</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2683,8 +2683,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>BuyCoin version</source>
-        <translation>BuyCoin version</translation>
+        <source>BCPcoin version</source>
+        <translation>BCPcoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2693,8 +2693,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or BuyCoind</source>
-        <translation>Send kommando til-server eller BuyCoind</translation>
+        <source>Send command to -server or BCPcoind</source>
+        <translation>Send kommando til-server eller BCPcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2713,13 +2713,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: BuyCoin.conf)</source>
-        <translation>Angiv konfigurationsfil (default: BuyCoin.conf)</translation>
+        <source>Specify configuration file (default: BCPcoin.conf)</source>
+        <translation>Angiv konfigurationsfil (default: BCPcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: BuyCoind.pid)</source>
-        <translation>Angiv pid fil (standard: BuyCoind.pid)</translation>
+        <source>Specify pid file (default: BCPcoind.pid)</source>
+        <translation>Angiv pid fil (standard: BCPcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2736,13 +2736,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=BuyCoinrpc
+rpcuser=BCPcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;BCPcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2848,8 +2848,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BuyCoin will not work properly.</source>
-        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil BuyCoin ikke fungere korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BCPcoin will not work properly.</source>
+        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil BCPcoin ikke fungere korrekt.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3155,7 +3155,7 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. BuyCoin is shutting down.</source>
+        <source>Initialization sanity check failed. BCPcoin is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3220,13 +3220,13 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BuyCoin</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af BuyCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BCPcoin</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af BCPcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BuyCoin to complete</source>
-        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart BuyCoin for fuldføre</translation>
+        <source>Wallet needed to be rewritten: restart BCPcoin to complete</source>
+        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart BCPcoin for fuldføre</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3290,8 +3290,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. BuyCoin is probably already running.</source>
-        <translation>Kunne ikke binde sig til% s på denne computer. BuyCoin kører sikkert allerede.</translation>
+        <source>Unable to bind to %s on this computer. BCPcoin is probably already running.</source>
+        <translation>Kunne ikke binde sig til% s på denne computer. BCPcoin kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3330,7 +3330,7 @@ for example: alertnotify=echo %%s | mail -s &quot;BuyCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. BuyCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. BCPcoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

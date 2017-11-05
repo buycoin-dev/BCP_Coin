@@ -23,7 +23,7 @@
       <string notr="true">background-image: url(:/images/bgbfree);</string>
      </property>
      <property name="text">
-      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff5500;&quot;&gt;These are your BuyCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff5500;&quot;&gt;These are your BCPcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
      </property>
      <property name="textFormat">
       <enum>Qt::PlainText</enum>
@@ -103,7 +103,7 @@ background-image: url(:/images/bgbfree);</string>
      <item>
       <widget class="QPushButton" name="signMessage">
        <property name="toolTip">
-        <string>Sign a message to prove you own a BuyCoin address</string>
+        <string>Sign a message to prove you own a BCPcoin address</string>
        </property>
        <property name="styleSheet">
         <string notr="true">background-color: rgb(255, 153, 51);background-image: url(:/images/bgbfree);</string>
@@ -116,7 +116,7 @@ background-image: url(:/images/bgbfree);</string>
      <item>
       <widget class="QPushButton" name="verifyMessage">
        <property name="toolTip">
-        <string>Verify a message to ensure it was signed with a specified BuyCoin address</string>
+        <string>Verify a message to ensure it was signed with a specified BCPcoin address</string>
        </property>
        <property name="styleSheet">
         <string notr="true">background-color: rgb(255, 153, 51);background-image: url(:/images/bgbfree);</string>

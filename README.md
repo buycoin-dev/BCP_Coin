@@ -1,13 +1,15 @@
-BuyCoin development tree
+BCPcoin development tree
 
-BuyCoin - Crypto currency is based on PoS.
+Website: https://www.buy-coin.me
+
+BCPcoin - Crypto currency is based on PoS.
 ===========================
 
 Algorithm: scrypt
 
 Total coin supply:475.000
 
-Pre-mine:200.000 BCP ~ for SWAP old BuyCoin SHA256D
+Pre-mine:200.000 BCP ~ for SWAP old BUYcoin SHA256D
 
 Coinbase maturity:91 Blocks
 
