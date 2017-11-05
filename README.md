@@ -2,7 +2,7 @@ BCPcoin development tree
 
 Website: https://www.buy-coin.me
 
-BCPcoin - Crypto currency is based on PoS.
+BCPcoin - Crypto currency is scrypt based - PoS.
 ===========================
 
 Algorithm: scrypt
